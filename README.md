@@ -26,7 +26,7 @@ Após o passo anterior você pode clonar o repositório.
 
 Primeiro inicie o back-end do projeto.
 
-Abra dois seu computador dentro da pasta onde você clonou o repositório e comece a aplicação web.
+Abra dois terminais no seu computador dentro da pasta onde você clonou o repositório e comece a aplicação web rodandos os comandos abaixo.
 
 1. Qualquer terminal -> `yarn` ou `npm install`
 2. Terminal 1 -> `yarn server` ou `npm run server`
